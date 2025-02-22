@@ -34,9 +34,9 @@
     
         //Recipients
         $mail->setFrom('info@ayoolasuite.com', "Ayoola's Suite and Apartments");
-        $mail->addAddress('demo@gmail.com', 'Mr Deen');              //Name is optional
+        $mail->addAddress('freestyle@gmail.com', 'Mr Deen');              //Name is optional
         $mail->addAddress($email, $fname);
-        $mail->addReplyTo('demo@gmail.com', 'Mr Code');
+        $mail->addReplyTo('freestyle@gmail.com', 'Mr Code');
     
         //Content
         $mail->isHTML(true);                                  //Set email format to HTML

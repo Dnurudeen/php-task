@@ -1,4 +1,4 @@
-# PHP MAILER (DEEN)
+# PHP MAILER (DEEN O.)
 
 
     // ini_set("include_path", '/home/mmxgftdd/php:' . ini_get("include_path") );
